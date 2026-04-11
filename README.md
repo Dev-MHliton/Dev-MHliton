@@ -76,10 +76,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-MHliton&theme=radical&hide_border=true" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mh-liton-360&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
   <!-- Footer -->
   <h3 style="color:#bbb; margin-top:30px;">
     💖 Thanks for visiting my profile! Have a great day! 🚀
