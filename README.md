@@ -43,9 +43,6 @@
   <a href="https://www.facebook.com/mh.liton.360" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/mh.liton.360/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://leetcode.com/u/Mahdi-H-liton/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
