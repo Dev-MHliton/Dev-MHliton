@@ -30,8 +30,8 @@
 <!-- Portfolio / Resume / Contact -->
 <p style="margin:15px 0; color:#bbb;">
 👨‍💻 <a href="https://liton-portfolio-resume.netlify.app/" style="color:#61dafb;">Portfolio</a>  
-| 📫 <a href="mailto:liton41126nk@gmail.com" style="color:#61dafb;">Email Me</a>  
 | 📄 <a href="https://drive.google.com/file/d/1QtB_laewMu40NHhxi3Lo_OnbHLdB5yPW/view" style="color:#61dafb;">Resume</a>
+  | 📫 <a href="mailto:liton41126nk@gmail.com" style="color:#61dafb;">Mail Please</a>  
 </p>
 
 <!-- Social Links -->
