@@ -46,7 +46,7 @@
   <a href="https://leetcode.com/u/Dev_liton/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/M-liton" target="_blank">
+  <a href="https://codeforces.com/profile/Dev_MHliton" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
