@@ -9,15 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=Dev-MHliton&label=Profile%20views&color=0e75b6&style=flat-square" />
 </p>
 
-<!-- Tech Stack Badges -->
-<div style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/Frontend-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styling-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Language-Python-3776ab?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
 <!-- Work / Learning -->
 <p style="margin:15px 0; color:#bbb;">
 🔭 Currently working on <strong style="color:#61dafb;">Programming Hero</strong>  
