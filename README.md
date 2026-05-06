@@ -1,6 +1,5 @@
 <!-- Modern Styled README -->
 <div style="text-align:left; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#ddd; line-height:1.6;">
-
 <h1 style="color:#fff; margin-bottom:10px;">Hi 👋, I'm MH.liton</h1>
 <h3 style="color:#bbb; margin-top:0;">A passionate frontend developer from Bangladesh!</h3>
 
